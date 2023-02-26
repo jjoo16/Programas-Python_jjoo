@@ -14,4 +14,5 @@ paganeta = pagabruta - impuesto
 print("\nResumen de pagos : \n")
 print(f"El trabajador {nombre} trabajo {horas} horas con una paga de {paga}, impuesto de {tasa}% ")
 print(f"paga bruta : {pagabruta}")
+print(f'Impuesto {impuesto}')
 print(f"paga neta : {paganeta}")

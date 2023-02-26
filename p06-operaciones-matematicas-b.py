@@ -1,10 +1,10 @@
 # Efectua operaciones matematicas con dos valores
 
-print("efectua operaciones matematicas con dos vlores:\n")
-print("dame dos valores separados por espacio")
+print("efectua operaciones matematicas con dos valores:\n")
+print("dame dos valores separados por espacio:")
 
 x, y = input().split()
-y, y = [float(x), float(y)]
+x, y = [float(x), float(y)]
 
 suma = x + y
 resta = x - y
@@ -14,7 +14,9 @@ dive = x // y
 res = x % y
 exp = x ** y
 
-print("suma   :", suma)
-print("resta   :", resta)
+print(F"suma: {suma}\n resta: {resta}\n multiplicación: {mult}\n")
+print(f'división: {div}\n div entera: {dive}\n Residuo: {res}')
+print(f'Exponenciación: {exp}\n')
+
 
 

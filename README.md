@@ -12,6 +12,14 @@
 
 ## Actividad 2 
 - p05-el-promedio-de-calificaciones
+- p06-operaciones-matematicas-b
 - p06-operaciones-matematicas
 - p07-funciones-trigonometricas
 - p08-dividir-cifras
+
+
+## Actividad 3
+- p15-verificar
+- p16-verificar-suma
+- p17-convertir-temperaturas
+- p18-paga-trabajador
