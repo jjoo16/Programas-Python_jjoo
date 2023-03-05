@@ -34,6 +34,10 @@
 ## Tarea 2
 - p23-numeros-consecutivos
 - p24-número-mayor
+- p25-dias-de-la-semana
+- p26-numeros-romanos
+- p27-Calculo-de-notas
+
 
 ## Actividad 5
 - p29-numeros-1-100
