@@ -37,6 +37,7 @@
 - p25-dias-de-la-semana
 - p26-numeros-romanos
 - p27-Calculo-de-notas
+- p28-Aceptar-estudiante-v2
 
 
 ## Actividad 5
