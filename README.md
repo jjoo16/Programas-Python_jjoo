@@ -17,6 +17,12 @@
 - p07-funciones-trigonometricas
 - p08-dividir-cifras
 
+# Tarea 1
+- p09-hipotenusa-triangulo
+- p10-calcular-tercer-angulo
+- p11–Convertir-temperatura
+- p12–Volumen-cilindro
+
 
 ## Actividad 3
 - p15-verificar
@@ -51,4 +57,7 @@
 - p34-tabla-conversion
 - p35-conjetura-collatz
 - p36-tablas-de-multiplicar
-- p36-tabla-multiplicar-v2
+- p37-tabla-multiplicar-v2
+
+## Primer examen parcial
+- p44-primer-examen-parcial

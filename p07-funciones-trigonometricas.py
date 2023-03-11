@@ -12,11 +12,11 @@ cos = math.cos(angulo)
 tan = math.tan(angulo)
 grados = math.degrees(angulo)
 
-salida = ('resumen de funciones trigonometricas\n'
+salida = ('resumen de funciones trigonometricas\n')
 f'El seno es: {seno}\n'
 f'El coseno es : {cos}\n'
 f'La tangente es: {tan}\n'
 f'El angulo es : {angulo} en radianes equivale a: {grados}'
-)
+
 
 print(salida)

@@ -2,7 +2,7 @@
 
 import os
 while(True):
-    os.system('clear')
+    os.system('cls')
     tc = 20.71
     pi = float(input("Valor inicial: "))
     pf = float(input("Valor final : "))
