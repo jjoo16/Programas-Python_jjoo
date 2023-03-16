@@ -59,5 +59,16 @@
 - p36-tablas-de-multiplicar
 - p37-tabla-multiplicar-v2
 
+## Tarea 3
+- p38-impares ascendente
+- p39-pares-descendente
+
 ## Primer examen parcial
 - p44-primer-examen-parcial
+
+## Actividad 7
+- p45-numeros-1-100
+- p46-numeros-100-1
+- p47-arriba-abajo
+- p48-suma-pares-impares
+- p49–suma-numeros
