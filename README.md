@@ -72,3 +72,10 @@
 - p47-arriba-abajo
 - p48-suma-pares-impares
 - p49–suma-numeros
+
+## Actividad 9
+- p60–acceder-lista
+- p61-cambiar-lista
+- p62-agregar-lista
+- p63-remover-lista
+- p64-iterar-listas
