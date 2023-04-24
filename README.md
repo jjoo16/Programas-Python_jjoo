@@ -79,3 +79,10 @@
 - p62-agregar-lista
 - p63-remover-lista
 - p64-iterar-listas
+
+## Actividad 10
+- p65-procesar-calificaciones
+- p66-sumar-listas
+- p67-dia-paga
+- p68-nombre-edades
+- p69-listas-aleratorias
