@@ -86,3 +86,7 @@
 - p67-dia-paga
 - p68-nombre-edades
 - p69-listas-aleratorias
+
+## Actividad 13
+- p76-trabajando-conjuntos
+- p77-operaciones-conjuntos
