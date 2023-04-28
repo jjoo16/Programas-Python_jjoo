@@ -87,6 +87,10 @@
 - p68-nombre-edades
 - p69-listas-aleratorias
 
-## Actividad 13
+## Actividad 11
 - p76-trabajando-conjuntos
 - p77-operaciones-conjuntos
+
+## Tarea 6
+- p78-personas
+- p79-numeros
