@@ -94,3 +94,8 @@
 ## Tarea 6
 - p78-personas
 - p79-numeros
+
+## Actividad 12
+- p80-estudiante
+- p81–calificaciones
+- p82–nombres y edades
